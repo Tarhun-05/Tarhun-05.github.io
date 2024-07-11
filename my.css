@@ -1,0 +1,18 @@
+h1 {font-size: 50px;
+color: red;}
+p {
+    font-size: 30px;
+    color: blue;
+}
+.class1 {
+    font-size: 30px;
+    color: yellow;
+}
+p {
+    font-size: 24px;
+  }
+  
+  .text-bold {
+    font-weight: bold;
+  }
+  
